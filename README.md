@@ -1,2 +1,2 @@
 # FolderCreator
-Some useless code pieces to learn some useless tech
+Belongs to a time when i needed lots of folders to organize my files.
